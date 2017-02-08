@@ -1,0 +1,5 @@
+name: NoReloadMOTD
+description: Change the server MOTD with ease
+author: UckoDucko
+version: 1.0
+main: com.uckoducko.noreloadmotd.Main
